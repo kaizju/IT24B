@@ -12,12 +12,12 @@ h1{
     color:aliceblue;
     border-style: solid;
 }
-h3{
+p{
     color: rgb(60, 179, 113), blue;
     text-align: center;
-    margin: 8rem;
+    margin: 2rem;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 50px;
+    font-size: 18px;
     color:aliceblue;
 
   }

@@ -14,10 +14,10 @@ h1{
 }
 h3{
     color: rgb(60, 179, 113), blue;
-    text-align: center;
-    margin: 8rem;
+    text-align: left;
+    margin: 1rem;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 50px;
+    font-size: 20px;
     color:aliceblue
   }.header {
     overflow: hidden;

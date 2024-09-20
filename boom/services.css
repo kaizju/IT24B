@@ -15,11 +15,13 @@ h1{
 h3{
     color: rgb(60, 179, 113), blue;
     text-align: center;
-    margin: 8rem;
+    margin: 1rem;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 50px;
-    color:aliceblue
-  }.header {
+    font-size: 25px;
+    color:aliceblue;
+
+  }
+  .header {
     overflow: hidden;
     background-color: rgb(6, 8, 6);
     /*padding: 20px 10px;*/
